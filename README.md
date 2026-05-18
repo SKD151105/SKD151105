@@ -76,6 +76,15 @@ const shubham = {
 
 ---
 
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats-mu-five-26.vercel.app/api?username=SKD151105&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
+![Top Langs](https://github-readme-stats-mu-five-26.vercel.app/api/top-langs/?username=SKD151105&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
+
+</div>
+
+---
+
 ### Competitive Programming
 
 <div align="center">
@@ -94,15 +103,6 @@ const shubham = {
 - **2nd Place** — IIIT Nagpur Hackathon Solve-a-Thon *(National Level)* · Built a fine-tuned Gemini model-powered stock prediction platform in 12 hours with a team of 5
 - **1st Place** — Cypher Chronicles · **2nd Place** — InFacto Oxford-Style Debate, IIITN
 - **JEE Mains** — 98.298 Percentile · AIR 19,918 · Top 1.7% among 1.17M candidates
-
----
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats-mu-five-26.vercel.app/api?username=SKD151105&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
-![Top Langs](https://github-readme-stats-mu-five-26.vercel.app/api/top-langs/?username=SKD151105&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
-
-</div>
 
 ---
 
