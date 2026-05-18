@@ -99,8 +99,8 @@ const shubham = {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SKD151105&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SKD151105&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
+![GitHub Stats](https://github-readme-stats-mu-five-26.vercel.app/api?username=SKD151105&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
+![Top Langs](https://github-readme-stats-mu-five-26.vercel.app/api/top-langs/?username=SKD151105&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
 
 </div>
 
