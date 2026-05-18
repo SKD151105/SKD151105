@@ -2,12 +2,13 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║                 Hey, I'm Shubham Kumar Das                   ║
-║    Full-Stack Engineer · AI Enthusiast · Problem Solver      ║
+║                  Hey, I'm Shubham Kumar Das                  ║
+║     Full-Stack Engineer · AI Enthusiast · Problem Solver     ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham-kumar-das)
+[![Resume](https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white)]([YOUR_RESUME_LINK](https://drive.google.com/drive/folders/1pJnGgRuPVSRr4O3jOFDwz7V-wNo_IED8?usp=drive_link))
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/SHUBHAM_KUMAR_DAS/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/skd151105)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skd1545passion@gmail.com)
@@ -20,9 +21,9 @@
 
 ```javascript
 const shubham = {
-  education : "B.Tech CSE (AI/ML) @ IIIT Nagpur",
-  focus     : ["Full-Stack Engineering", "System Design", "AI Integration"],
-  currently : "Building production-grade backend systems",
+  education : "B.Tech CSE (AI/ML Specialization) @ IIIT Nagpur",
+  focus     : ["Full-Stack Engineering", "Software Architecture", "AI Integration", "Build for a Purpose"],
+  currently : "Building production-grade backend-focused systems",
   rating    : { codechef: "1584 (2-Star)", leetcode: "1696", globalRank: "#155 CodeChef Starters 235" },
 };
 ```
