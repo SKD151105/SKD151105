@@ -86,6 +86,11 @@ const shubham = {
 ![GitHub Stats](https://github-readme-stats-mu-five-26.vercel.app/api?username=SKD151105&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
 ![Top Langs](https://github-readme-stats-mu-five-26.vercel.app/api/top-langs/?username=SKD151105&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
 
+---
+
+### 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=SKD151105&theme=darkhub&no-frame=true&row=1&column=8)
+
 </div>
 
 ---
