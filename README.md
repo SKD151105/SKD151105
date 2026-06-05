@@ -77,7 +77,7 @@ const shubham = {
 |---------|-------------|-------|-------|
 | **PulseCheck** | Production-grade uptime monitoring SaaS with real-time alerts, Free/Pro plans via Stripe, cron workers, and SSRF-safe URL validation | Node.js · Redis · Socket.io · Stripe · MongoDB | [GitHub](https://github.com/SKD151105/PulseCheck) · [Demo](https://pulse-check-uptime.tech/) |
 | **ShortLink** | High-throughput URL redirection service — **1,365 req/sec**, **73ms avg latency**, **12x** throughput boost via Redis caching | Node.js · Redis · MongoDB · Zod | [GitHub](https://github.com/SKD151105/ShortLink-Service) |
-| **CortexLab** | AI study platform converting PDFs into flashcards, quizzes and summaries via 5 Gemini-powered actions with a PDF ingestion pipeline | Node.js · Gemini AI · React · MongoDB | [GitHub](https://github.com/SKD151105/CortexLab) · [Demo](https://cortex-lab-ten.vercel.app/) |
+| **CortexLab** | AI study platform converting PDFs into flashcards, quizzes and summaries via 5 Gemini-powered actions with a PDF ingestion pipeline | Node.js · Gemini AI · React · MongoDB | [GitHub](https://github.com/SKD151105/CortexLab) · [Demo](https://www.cortex-lab.dev/) |
 
 ---
 
