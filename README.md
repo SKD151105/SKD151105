@@ -88,7 +88,10 @@ const shubham = {
 
 ---
 
-### 🏆 GitHub Trophies
+![Shubham's GitHub Activity Graph](https://github-readme-activity-graph-rosy.vercel.app/graph?username=SKD151105&theme=react-dark)
+
+---
+
 ![Trophies](https://github-profile-trophy-liard-seven.vercel.app/?username=SKD151105&theme=darkhub&no-frame=true&row=1&column=8)
 
 </div>
