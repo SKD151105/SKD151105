@@ -104,8 +104,8 @@ const shubham = {
 
 | Platform | Rating | Highlight |
 |----------|--------|-----------|
-| **CodeChef** | 1638 (3-Star) | Global Rank **#155** — Starters 235 |
-| **LeetCode** | 1752 | Consistent problem solver |
+| **CodeChef** | 1640 (3-Star) | Global Rank **#155** — Starters 235 |
+| **LeetCode** | 1866 (Knight) | Consistent problem solver |
 
 </div>
 
