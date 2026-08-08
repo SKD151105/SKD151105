@@ -24,7 +24,7 @@ const shubham = {
   education : "B.Tech CSE (AI/ML Specialization) @ IIIT Nagpur",
   focus     : ["Full-Stack Engineering", "Software Architecture", "AI Integration", "Build for a Purpose"],
   currently : "Building production-grade backend-focused systems",
-  rating    : { codechef: "1584 (2-Star)", leetcode: "1696", globalRank: "#155 CodeChef Starters 235" },
+  rating    : { codechef: "1640 (3-Star)", leetcode: "1905 (Knight)", globalRank: "#139 CodeChef Starters 235" },
 };
 ```
 
@@ -61,8 +61,10 @@ const shubham = {
     &nbsp;<img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
     &nbsp;<img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
   </td></tr>
-  <tr><td><b>Tools</b></td><td>
+  <tr><td><b>Tools / DevOps</b></td><td>
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+    &nbsp;<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+    &nbsp;<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
     &nbsp;<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
     &nbsp;<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
     &nbsp;<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
@@ -73,11 +75,13 @@ const shubham = {
 
 ### Featured Projects
 
-| Project | Description | Stack | Links |
-|---------|-------------|-------|-------|
+| Project | Description | Tech Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **CreditPulse** | Loan Origination & Underwriting System with automated risk scoring, real-time SSE notifications, fail-fast rate limiting, and event-driven webhook processing. | Node.js · React · Redis · MongoDB · BullMQ | [GitHub](https://github.com/SKD151105/CreditPulse) · [Demo](https://credit-pulse-xi.vercel.app/) |
 | **PulseCheck** | Production-grade uptime monitoring SaaS with real-time alerts, Free/Pro plans via Stripe, cron workers, and SSRF-safe URL validation | Node.js · Redis · Socket.io · Stripe · MongoDB | [GitHub](https://github.com/SKD151105/PulseCheck) · [Demo](https://pulse-check-uptime.tech/) |
 | **ShortLink** | High-throughput URL redirection service — **1,365 req/sec**, **73ms avg latency**, **12x** throughput boost via Redis caching | Node.js · Redis · MongoDB · Zod | [GitHub](https://github.com/SKD151105/ShortLink-Service) |
 | **CortexLab** | AI study platform converting PDFs into flashcards, quizzes and summaries via 5 Gemini-powered actions with a PDF ingestion pipeline | Node.js · Gemini AI · React · MongoDB | [GitHub](https://github.com/SKD151105/CortexLab) · [Demo](https://www.cortex-lab.dev/) |
+
 
 ---
 
@@ -105,7 +109,7 @@ const shubham = {
 | Platform | Rating | Highlight |
 |----------|--------|-----------|
 | **CodeChef** | 1640 (3-Star) | Global Rank **#155** — Starters 235 |
-| **LeetCode** | 1866 (Knight) | Consistent problem solver |
+| **LeetCode** | 1904 (Knight) | Consistent problem solver |
 
 </div>
 
@@ -113,9 +117,12 @@ const shubham = {
 
 ### Achievements
 
-- **2nd Place** — IIIT Nagpur Hackathon Solve-a-Thon *(National Level)* · Built a fine-tuned Gemini model-powered stock prediction platform in 12 hours with a team of 5
-- **1st Place** — Cypher Chronicles · **2nd Place** — InFacto Oxford-Style Debate, IIITN
-- **JEE Mains** — 98.298 Percentile · AIR 19,918 · Top 1.7% among 1.17M candidates
+- **Amazon MLSS'26** — Selected for the Amazon ML Summer School 2026, a highly selective program led by Amazon Scientists.
+- **Flipkart GRID 8.0** — Qualified through 2 elimination rounds of Flipkart's flagship national engineering challenge.
+- **2nd Place (Runner-Up)** — IIIT Nagpur Hackathon Solve-a-Thon *(National Level)* · Led a team of 5 under a 12-hour constraint to build a fine-tuned Gemini model-powered stock prediction platform.
+- **Competitive Programming** — Secured **Global Rank 139** (Starters 235) and **Global Rank 190** (Starters 240) on CodeChef. Solved **650+ DSA problems** across LeetCode, CodeChef, and TakeUforward.
+- **1st Place** — Cypher Chronicles (Public Speaking, 40+ participants) · **Runner-Up** — InFacto Oxford-Style Debate, IIITN (50+ participants).
+- **JEE Mains** — 98.298 Percentile · AIR 19,918 · Top 1.7% among 1.17M candidates.
 
 ---
 
